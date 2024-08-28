@@ -48,6 +48,8 @@ table {
 
 /* CSS GLOBAL */
 html{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
     background-color: #fafafa;
 }
 
